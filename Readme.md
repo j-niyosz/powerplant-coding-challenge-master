@@ -12,7 +12,7 @@ The final result should appear like follow :
 {
 
     "name": "name of the power plant",
-    "p": "power needed to acheived the load"
+    "p": int (power needed to acheived the load)
 }
 
 I suggest to use Postman application to use the API :
